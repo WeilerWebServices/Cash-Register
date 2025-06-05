@@ -1,0 +1,13 @@
+{
+    "shopify": {
+        "api_key": "your_shopify_api_key",
+        "password": "your_shopify_api_password",
+        "store_name": "your-store-name"
+    },
+    "app": {
+        "tax_rate": 0.08,
+        "id_image_dir": "id_images/",
+        "database_file": "cash_register.db",
+        "min_age": 21
+    }
+}
